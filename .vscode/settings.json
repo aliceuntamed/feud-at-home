@@ -12,3 +12,9 @@
     "C_Cpp.autocompleteAddParentheses": true,
     "debug.javascript.autoAttachFilter": "smart"
 }
+{
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.root": "/",
+  "liveServer.settings.port": 5500
+}

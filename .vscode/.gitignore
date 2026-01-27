@@ -1,0 +1,19 @@
+# VS Code settings
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node modules (future-proofing)
+node_modules/
+
+# Build artifacts (if you ever add a build step)
+dist/
+build/
+
+# Environment files (if you ever add them)
+.env
