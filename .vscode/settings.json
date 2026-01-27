@@ -1,0 +1,14 @@
+{
+    "editor.codeActions.triggerOnFocusChange": true,
+    "workbench.commandPalette.experimental.suggestCommands": true,
+    "workbench.commandPalette.preserveInput": true,
+    "workbench.editor.alwaysShowEditorActions": true,
+    "testing.alwaysRevealTestOnStateChange": true,
+    "chat.customAgentInSubagent.enabled": true,
+    "chat.useAgentSkills": true,
+    "chat.useNestedAgentsMdFiles": true,
+    "inlineChat.notebookAgent": true,
+    "telemetry.editStats.details.enabled": true,
+    "C_Cpp.autocompleteAddParentheses": true,
+    "debug.javascript.autoAttachFilter": "smart"
+}
